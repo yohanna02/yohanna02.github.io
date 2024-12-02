@@ -7,7 +7,8 @@
     outline: none;
 }
 body {
-    background-color: #9873fe;
+    /* background-color: #9873fe; */
+    background-color: red;
 }
 .wrapper {
     width: 90%;
